@@ -1,0 +1,7 @@
+"names","type","celline","mutant","batch","sample","fq1","fq2"
+"C906","PE","MUT1","DM","batch1","C_906","/mnt/marcodata/PROJECTS/UZH/DATA/C_906_1.fq.gz","/mnt/marcodata/PROJECTS/UZH/DATA/C_906_2.fq.gz"
+"C506","PE","MUT2","BRAF","batch1","C_506","/mnt/marcodata/PROJECTS/UZH/DATA/C_506_1.fq.gz","/mnt/marcodata/PROJECTS/UZH/DATA/C_506_2.fq.gz"
+"C224","PE","MUT1","DM","batch1","C_224","/mnt/marcodata/PROJECTS/UZH/DATA/C_224_1.fq.gz","/mnt/marcodata/PROJECTS/UZH/DATA/C_224_2.fq.gz"
+"C031","PE","MUT2","BRAF","batch1","C_031","/mnt/marcodata/PROJECTS/UZH/DATA/C_031_1.fq.gz","/mnt/marcodata/PROJECTS/UZH/DATA/C_031_2.fq.gz"
+"C227","PE","MUT3","NRAS","batch2","C_227","/mnt/marcodata/PROJECTS/UZH/DATA/C_227_1.fq.gz","/mnt/marcodata/PROJECTS/UZH/DATA/C_227_2.fq.gz"
+"C915","PE","MUT3","NRAS","batch2","C_915","/mnt/marcodata/PROJECTS/UZH/DATA/C_915_1.fq.gz","/mnt/marcodata/PROJECTS/UZH/DATA/C_915_2.fq.gz"

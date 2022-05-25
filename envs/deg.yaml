@@ -1,0 +1,15 @@
+name: deg
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+  
+dependencies:
+  - bioconductor-tximeta >=1.12
+  - bioconductor-deseq2 >=1.3
+  - bioconductor-ensembldb
+  - bioconductor-annotationdbi
+  - bioconductor-org.hs.eg.db
+  - bioconductor-limma
+  - r-tidyverse

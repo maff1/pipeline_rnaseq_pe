@@ -1,0 +1,10 @@
+name: snakemake-rna
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  
+dependencies:
+  - star=2.7*
+  - pandas
+  - yaml

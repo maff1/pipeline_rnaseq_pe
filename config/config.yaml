@@ -1,0 +1,19 @@
+---
+# directories
+result_dir: results/
+working_dir: temp/
+reference_dir: reference/
+keep_working_dir: TRUE
+keep_reference_dir: TRUE
+keep_result_dir: TRUE
+
+# reference transcriptome and genome for salmon index
+refs:
+  ensembl_transc_fasta: "ftp://ftp.ensembl.org/pub/release-105/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz"
+  ensemblGTF: "ftp://ftp.ensembl.org/pub/release-105/gtf/homo_sapiens/Homo_sapiens.GRCh38.105.gtf.gz"
+  ensemblFASTA: "ftp://ftp.ensembl.org/pub/release-105/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz"
+  
+samples_tbl: "./config/metadata.csv"
+
+gexpression:
+  design: "~batch + mutant"

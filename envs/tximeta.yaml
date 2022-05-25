@@ -1,0 +1,9 @@
+name: r-tximeta
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+  
+dependencies:
+  - bioconductor-tximeta >=1.12
